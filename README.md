@@ -1,5 +1,10 @@
 # Stopwatch & Timer App
 
+## Submission
+
+- Live: https://stop-watch-pied-nu.vercel.app/
+- GitHub: https://github.com/ashaafkhan/stop-watch
+
 A polished React app that combines a stopwatch and countdown timer in one interface. It uses drift-free timing based on `Date.now()`, supports keyboard shortcuts, and includes a progress ring plus audio/visual completion alert for the timer.
 
 ## Features
